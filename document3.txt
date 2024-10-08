@@ -1,7 +1,2 @@
-#include <iostream>
-using namespace std;
-
-int main(void)
-{
-	cout << "Modification" << endl;
-}
+컴퓨터공학과
+Kumoh National Institute of Technology
