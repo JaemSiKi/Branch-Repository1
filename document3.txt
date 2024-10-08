@@ -1,7 +1,2 @@
-#include <iostream>
-using namespace std;
-
-int main(void)
-{
-	cout << "Modification" << endl;
-}
+Dept. of C.E.
+Kumoh National Institute of Technology
